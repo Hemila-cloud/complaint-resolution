@@ -1,4 +1,10 @@
-# Consumer Complaint Resolution Recommendation System
+# A Hybrid Explainable Framework for Context-Aware Consumer Complaint Resolution Recommendation Using Transformer Embeddings and Historical Case Retrieval
+
+Developed as a part of course on "Recommender System" at Vellore Institute of Technology, Chennai by Hemila Saravanan, Lokireddy Madhavi
+
+Subject Code: CSE4077  
+Semester: Fall 2026-27  
+Professor: Dr. S. Vigneshwari
 
 ## Project Overview
 
