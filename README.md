@@ -6,6 +6,7 @@ Subject Code: CSE4077
 Semester: Fall 2026-27  
 Professor: Dr. S. Vigneshwari
 
+**Demo link:** https://drive.google.com/file/d/1tfrwGB0JTSDoljaAYTDFnTX7iHW339n1/view?usp=sharing
 ## Project Overview
 
 The **Consumer Complaint Resolution Recommendation System** is an NLP-based framework designed to recommend possible resolution categories for new consumer complaints by analyzing similar historical complaints and their recorded company responses.
